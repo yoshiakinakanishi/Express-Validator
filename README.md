@@ -1,8 +1,9 @@
 # Express-Validator
 
+# インストール
 `npm install express-validator --save-dev`
 
-app.jsに以下2行を追加する
+# app.jsに以下2行を追加する
 
 `var validator = require('express-validator');`
 
