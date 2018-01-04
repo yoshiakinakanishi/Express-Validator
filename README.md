@@ -2,7 +2,7 @@
 
 # インストール方法
 
-`npm install express-validator --save-dev`
+`npm install -D express-validator`
 
 # app.jsに以下2行を追加
 
